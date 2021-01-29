@@ -1,0 +1,16 @@
+/home/roger/Desktop/Files/Studies/DotNet/OnesAndZeroes/bin/Debug/net5.0/OnesAndZeroes
+/home/roger/Desktop/Files/Studies/DotNet/OnesAndZeroes/bin/Debug/net5.0/OnesAndZeroes.deps.json
+/home/roger/Desktop/Files/Studies/DotNet/OnesAndZeroes/bin/Debug/net5.0/OnesAndZeroes.runtimeconfig.json
+/home/roger/Desktop/Files/Studies/DotNet/OnesAndZeroes/bin/Debug/net5.0/OnesAndZeroes.runtimeconfig.dev.json
+/home/roger/Desktop/Files/Studies/DotNet/OnesAndZeroes/bin/Debug/net5.0/OnesAndZeroes.dll
+/home/roger/Desktop/Files/Studies/DotNet/OnesAndZeroes/bin/Debug/net5.0/ref/OnesAndZeroes.dll
+/home/roger/Desktop/Files/Studies/DotNet/OnesAndZeroes/bin/Debug/net5.0/OnesAndZeroes.pdb
+/home/roger/Desktop/Files/Studies/DotNet/OnesAndZeroes/obj/Debug/net5.0/OnesAndZeroes.csprojAssemblyReference.cache
+/home/roger/Desktop/Files/Studies/DotNet/OnesAndZeroes/obj/Debug/net5.0/OnesAndZeroes.GeneratedMSBuildEditorConfig.editorconfig
+/home/roger/Desktop/Files/Studies/DotNet/OnesAndZeroes/obj/Debug/net5.0/OnesAndZeroes.AssemblyInfoInputs.cache
+/home/roger/Desktop/Files/Studies/DotNet/OnesAndZeroes/obj/Debug/net5.0/OnesAndZeroes.AssemblyInfo.cs
+/home/roger/Desktop/Files/Studies/DotNet/OnesAndZeroes/obj/Debug/net5.0/OnesAndZeroes.csproj.CoreCompileInputs.cache
+/home/roger/Desktop/Files/Studies/DotNet/OnesAndZeroes/obj/Debug/net5.0/OnesAndZeroes.dll
+/home/roger/Desktop/Files/Studies/DotNet/OnesAndZeroes/obj/Debug/net5.0/ref/OnesAndZeroes.dll
+/home/roger/Desktop/Files/Studies/DotNet/OnesAndZeroes/obj/Debug/net5.0/OnesAndZeroes.pdb
+/home/roger/Desktop/Files/Studies/DotNet/OnesAndZeroes/obj/Debug/net5.0/OnesAndZeroes.genruntimeconfig.cache
